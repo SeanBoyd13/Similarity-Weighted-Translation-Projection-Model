@@ -6,3 +6,4 @@ This project is a framework constructed to retrieve historical data from drafted
 
 ## Contents
 - **Code (Colab):** Python notebook containing framework used to produce personalized translation factors.
+- **Data (CSV):** Comparison between leading projection models for NHL point production in rookie season.
