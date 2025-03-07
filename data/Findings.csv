@@ -1,10 +1,10 @@
-Total Points,RSQ,Standard Error
+Total Points,R^2,Standard Error
 S.W.A.T.,0.353,6.81
 NHLe (Patrick Bacon),0.306,7.06
 NHLe (NL Ice Data),0.255,7.31
 NHL.com Predictions,0.031,12.65
 ,,
-Point Pace,RSQ,Standard Error
+Point Pace,R^2,Standard Error
 S.W.A.T.,0.316,14.62
 NHLe (NL Ice Data),0.159,16.22
 NHLe (Patrick Bacon),0.158,16.23
